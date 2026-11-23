@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.HandScroll" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#E8501A</item>
+    </style>
+</resources>
